@@ -5,7 +5,7 @@ This series is dedicated on teaching you everything you need to know to get star
 ## Content
 <table>
   <tr>
-    <td>Lesson 1 : Introduction <a href="https://github.com/codingninja-dev/css-course-notes/tree/master/Css%20Series/01.%20Introduction">Code</a> | Video</td>
+    <td>Lesson 1 : Series Intro <a href="https://github.com/codingninja-dev/css-course-notes/tree/master/Css%20Series/01.%20Series%20Intro">Code</a> | Video</td>
     <td>Lesson 17 : Outline <a href="https://github.com/codingninja-dev/css-course-notes/tree/master/Css%20Series/17.%20Outline">Code</a> | Video</td>
   </tr>
   <tr>
